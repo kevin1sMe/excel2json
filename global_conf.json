@@ -1,0 +1,7 @@
+{
+"testint": 1986,
+"testintarray": [ 1,2,3,4,5 ],
+"teststring1": "hello, world",
+"teststring2": "测试字符串",
+"teststringarray": [ "你好","我也好" ]
+}
